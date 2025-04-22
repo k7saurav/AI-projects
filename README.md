@@ -1,2 +1,2 @@
-# Lovable Projects
+# AI Projects
 AI generated Projects. 
